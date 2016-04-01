@@ -1,0 +1,4 @@
+#Acquire::http::Proxy "http://cachex.pdn.ac.lk:3128/";
+#Acquire::https::Proxy "http://cachex.pdn.ac.lk:3128/";
+#Acquire::ftp::Proxy "http://cachex.pdn.ac.lk:3128/";
+

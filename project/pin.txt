@@ -1,0 +1,10 @@
+1 - reserved
+2 - reserved
+2 - blink
+3 - blink
+4 - switch
+5 - switch
+6 - fade/ dim bulb
+7 - reserved
+8 - fade/
+

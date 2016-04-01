@@ -1,0 +1,16 @@
+.bulb {
+	width: 216px;
+	height: 305px;
+	display: block;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto
+}
+
+img {
+	position: absolute;
+}
+
+img.intensity {
+	opacity: 0;
+}

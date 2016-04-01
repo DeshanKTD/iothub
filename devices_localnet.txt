@@ -1,0 +1,42 @@
+Interface: wlan0, datalink type: EN10MB (Ethernet)
+Starting arp-scan 1.8.1 with 256 hosts (http://www.nta-monitor.com/tools/arp-scan/)
+10.40.19.2	30:b5:c2:21:79:d4	(Unknown)
+10.40.19.5	1c:c1:de:f1:e1:23	Hewlett Packard
+10.40.19.8	1c:c1:de:f1:e1:23	Hewlett Packard
+10.40.19.9	1c:c1:de:f1:e1:23	Hewlett Packard
+10.40.19.23	00:11:25:c0:b2:92	IBM Corp
+10.40.19.44	de:ad:be:ef:fe:ee	(Unknown)
+10.40.19.46	00:12:a9:cf:ee:4c	3Com Ltd
+10.40.19.58	00:0b:82:06:01:38	Grandstream Networks, Inc.
+10.40.19.61	98:ee:cb:1a:5f:c0	(Unknown)
+10.40.19.66	18:a9:05:ed:80:c2	Hewlett Packard
+10.40.19.68	00:0b:82:05:7e:f3	Grandstream Networks, Inc.
+10.40.19.74	44:39:c4:57:ac:41	(Unknown)
+10.40.19.80	98:ee:cb:1a:60:d0	(Unknown)
+10.40.19.84	98:ee:cb:1a:5f:b6	(Unknown)
+10.40.19.67	ac:72:89:e8:f1:ca	Intel Corporate
+10.40.19.85	00:16:35:66:72:28	Hewlett Packard
+10.40.19.86	98:ee:cb:1a:60:e3	(Unknown)
+10.40.19.88	00:0b:82:05:1c:d3	Grandstream Networks, Inc.
+10.40.19.117	18:a9:05:ed:5c:27	Hewlett Packard
+10.40.19.127	98:ee:cb:1a:5f:c6	(Unknown)
+10.40.19.104	4c:eb:42:2f:c9:cf	(Unknown)
+10.40.19.47	9c:b7:0d:17:7f:f4	(Unknown)
+10.40.19.72	d8:5d:e2:b4:cd:91	(Unknown)
+10.40.19.172	00:0b:82:05:7e:f6	Grandstream Networks, Inc.
+10.40.19.79	9c:d2:1e:d2:72:91	(Unknown)
+10.40.19.176	fc:4d:d4:fa:3b:22	(Unknown)
+10.40.19.100	0c:84:dc:b3:ac:bf	(Unknown)
+10.40.19.99	40:f0:2f:8b:70:1d	(Unknown)
+10.40.19.198	00:19:66:1b:c4:a5	Asiarock Technology Limited
+10.40.19.119	80:9b:20:56:3d:d0	Intel Corporate
+10.40.19.206	00:9c:02:8c:71:fe	(Unknown)
+10.40.19.207	70:f3:95:e2:78:6e	Universal Global Scientific Industrial Co., Ltd.
+10.40.19.227	00:0b:82:56:48:37	Grandstream Networks, Inc.
+10.40.19.228	00:8c:fa:61:d2:a8	Inventec Corporation
+10.40.19.147	00:71:cc:5a:1d:cd	(Unknown)
+10.40.19.242	00:21:b7:6a:d1:87	Lexmark International Inc.
+10.40.19.241	00:21:b7:6a:d1:07	Lexmark International Inc.
+
+37 packets received by filter, 0 packets dropped by kernel
+Ending arp-scan 1.8.1: 256 hosts scanned in 1.230 seconds (208.13 hosts/sec). 37 responded

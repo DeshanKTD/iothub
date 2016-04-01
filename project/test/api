@@ -1,0 +1,8 @@
+request type
+blink 	->>		192.168.43.8/?cat=led&option=blink&device=1
+blink 	->>		192.168.43.8/?cat=led&option=blink&device=1
+
+switch 	->>		192.168.43.8/?cat=led&option=switch&device=3&stat=1
+switch 	->>		192.168.43.8/?cat=led&option=switch&device=3&stat=0
+
+dim		->>		192.168.43.8/?cat=led&option=dim&device=6&level=123
